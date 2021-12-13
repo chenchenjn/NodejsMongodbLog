@@ -13,5 +13,9 @@
   ],
   "author": "chenchenjn",
   "license": "GNU",
-  "git repository":"https://github.com/chenchenjn/NodejsMongodbLog"
+  "git repository": "https://github.com/chenchenjn/NodejsMongodbLog",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.1.0"
+  }
 }
